@@ -7,11 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📚 Je suis actuellement en train d'apprendre *Microservices,KAFKA,SOAP,GraphQL,Restful,ERP,Oracle,DATA Meaning,Deep Learning ,Cyber Security*
+- 📚 Je suis actuellement en train d'apprendre:
+  
+- *Microservices,KAFKA,SOAP,GraphQL,Restful,ERP,Oracle,DATA Mining,Deep Learning ,Cyber Security*
 
-- 💬 Demandez-moi à propos de *JEE,Spring Boot,Angular,Python ,C,C++,.Net,C#,Php,*
+- 💬 Demandez-moi à propos de:
+  
+- *JEE,Spring Boot,Angular,Python ,C,C++,.Net,C#,Php,*
 
-- 📥 Comment me joindre *Lahouirfatimaezzahra@gmail.com*
+- 📥 Comment me joindre:
+  
+- *Lahouirfatimaezzahra@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
