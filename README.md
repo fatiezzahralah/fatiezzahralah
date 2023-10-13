@@ -1,23 +1,18 @@
 <h1 align="center">Bonjour 👋, je suis Fatima Ezzahra Lahouir</h1>
 <h3 align="center">Je suis actuellement en cinquième année d'études, dans la spécialité MIAGE, à l'EMSI. Mon domaine d'expertise en informatique s'accompagne d'une passion pour les projets innovants.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiezzahralah&label=Profile%20views&color=0e75b6&style=flat" alt="fatiezzahralah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatiezzahralah" alt="fatiezzahralah" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📚 Je suis actuellement en train d'apprendre:
   
-- *Microservices,KAFKA,SOAP,GraphQL,Restful,ERP,Oracle,DATA Mining,Deep Learning ,Cyber Security*
+  *Microservices,KAFKA,SOAP,GraphQL,Restful,ERP,Oracle,DATA Mining,Deep Learning ,Cyber Security*
 
 - 💬 Demandez-moi à propos de:
   
-- *JEE,Spring Boot,Angular,Python ,C,C++,.Net,C#,Php,*
+  *JEE,Spring Boot,Angular,Python ,C,C++,.Net,C#,Php,*
 
 - 📥 Comment me joindre:
   
-- *Lahouirfatimaezzahra@gmail.com*
+  *Lahouirfatimaezzahra@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
