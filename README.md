@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Fatima Ezzahra Lahouir</h1>
-<h3 align="center">Je suis actuellement en cinquième année d'études, dans la spécialité MIAGE, à l'EMSI. Mon domaine d'expertise en informatique s'accompagne d'une passion pour les projets innovants.</h3>
+<h3 >Je suis actuellement en cinquième année d'études, dans la spécialité MIAGE, à l'EMSI. Mon domaine d'expertise en informatique s'accompagne d'une passion pour les projets innovants.</h3>
 
 
 - 📚 Je suis actuellement en train d'apprendre:
